@@ -1,6 +1,6 @@
-# 🧑‍💼 Mini Job Portal System (Java Console Application)
+#  Mini Job Portal System (Java Console Application)
 
-## 📌 Project Overview
+##  Project Overview
 The Mini Job Portal System is a console-based Java application developed using Core Java, Object-Oriented Programming (OOP) concepts, and the Java Collections Framework.  
 It simulates a simple job portal where Admins, Companies, and Candidates interact through a menu-driven interface.
 
@@ -8,7 +8,7 @@ This project is implemented strictly according to the assignment guidelines, wit
 
 ---
 
-## 🎯 Objective
+##  Objective
 To design and implement a menu-driven Job Portal application that demonstrates:
 - OOP principles
 - Use of Java Collections
@@ -17,12 +17,12 @@ To design and implement a menu-driven Job Portal application that demonstrates:
 
 ---
 
-## ⏳ Duration
+##  Duration
 1.5 Days
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java (Core Java)
 - OOP Concepts
 - Java Collections Framework
@@ -30,7 +30,7 @@ To design and implement a menu-driven Job Portal application that demonstrates:
 
 ---
 
-## 📚 Concepts Implemented
+##  Concepts Implemented
 - Abstraction
 - Inheritance
 - Polymorphism
@@ -42,7 +42,7 @@ To design and implement a menu-driven Job Portal application that demonstrates:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 JobPortalSystem
 └── src
 └── com
@@ -60,23 +60,22 @@ JobPortalSystem
 
 ---
 
-## 👥 User Roles & Features
 
-### 👑 Admin
+###  Admin
 - View all jobs
 - View applicants for each job
 
-### 🏢 Company
+###  Company
 - Post new jobs
 - Close posted jobs
 
-### 👤 Candidate
+###  Candidate
 - View available jobs
 - Apply for jobs
 
 ---
 
-## ✅ Business Rules
+##  Business Rules
 - Job IDs must be unique
 - A candidate cannot apply for the same job more than once
 - A candidate cannot apply for a CLOSED job
@@ -86,7 +85,7 @@ JobPortalSystem
 
 ---
 
-## 🚫 Restrictions
+##  Restrictions
 - No Database
 - No Frameworks (Spring, Hibernate, etc.)
 - No Streams or Lambdas
@@ -94,7 +93,7 @@ JobPortalSystem
 
 ---
 
-## 📊 Evaluation Criteria
+##  Evaluation Criteria
 - OOP Design – 30%
 - Collections Usage – 30%
 - Logic & Validation – 20%
